@@ -1,7 +1,7 @@
 # Hi. I'm Gabriel Romero
 
 
-- 🔭 I’m currently working on [VinnTech](https://vinn.tech/) 
+- 🔭 I’m currently working on [VinnTech](https://vinn.tech/). I'am CTO and Full Stack Developer
 
 
 ## ⚡ Technologies
